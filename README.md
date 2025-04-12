@@ -128,7 +128,7 @@ The design passed all required timing and DRC constraints.
 
 ## 📝 Acknowledgements
 
-Special thanks to **Prof. [HAMID MAHMOODI** for guidance throughout the project and for enabling us to explore the complete RTL-to-GDSII flow.
+Special thanks to **Prof. HAMID MAHMOODI** for guidance throughout the project and for enabling us to explore the complete RTL-to-GDSII flow.
 
 “If everything you try works, you aren’t trying hard enough.”
 — Gordon Moore, Co-founder of Intel
